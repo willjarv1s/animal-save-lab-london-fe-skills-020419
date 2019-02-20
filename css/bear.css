@@ -13,7 +13,7 @@ html {
 @media (min-width: 1196px){
   .bear {
     position: absolute;
-    right: 800px;
+    left: 800px;
   }
 }
 
