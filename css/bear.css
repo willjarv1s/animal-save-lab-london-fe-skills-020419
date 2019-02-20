@@ -10,7 +10,7 @@ html {
 
 /* Write your solution here */
 
-@media (max-width: 1196px){
+@media (min-width: 1196px){
   .bear {
     position: absolute;
     left: 800px;
